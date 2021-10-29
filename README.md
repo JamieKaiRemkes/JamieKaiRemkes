@@ -2,4 +2,5 @@
 
 # Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Test](https://medium.com/@JamieKaiRemkes/test-9e1bbbd9197f?source=rss-71f041e6cc8------2)
 <!-- BLOG-POST-LIST:END -->
