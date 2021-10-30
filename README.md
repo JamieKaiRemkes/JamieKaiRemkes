@@ -33,6 +33,7 @@
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [deadcat](https://www.youtube.com/watch?v=6O6x1qHvsG4)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...][youtube]
 
