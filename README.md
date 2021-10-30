@@ -44,4 +44,4 @@
 
 [website]: https://jamiekairemkes.nl
 [youtube]: https://www.youtube.com/channel/UCYdCvAjPVxwE510iRrBve9A
-[linkedin]: https://linkedin.com/in/jamiekairemkes
+[linkedin]: https://www.linkedin.com/in/jamie-kai-remkes/
