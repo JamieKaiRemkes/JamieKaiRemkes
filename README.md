@@ -33,7 +33,7 @@
 
 ## 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [deadcat](https://www.youtube.com/watch?v=6O6x1qHvsG4)
+- [BMPCC 6k pro / Samyang 24mm t1.5 MK2](https://www.youtube.com/watch?v=k3eOr-UGWnQ)
 <!-- YOUTUBE:END -->
 ➡️ [more videos...][youtube]
 
